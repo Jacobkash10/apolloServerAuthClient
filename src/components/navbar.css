@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkblue;
+    padding: 1rem;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a h4 {
+    color: white;
+}
+
+.right {
+    display: flex;
+}
+
+.right h4 {
+    color: white;
+}
